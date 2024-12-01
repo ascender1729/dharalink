@@ -36,7 +36,7 @@ const About = () => {
             <div className="md:flex-shrink-0">
               <img
                 className="h-48 w-full object-cover md:h-full md:w-48"
-                src="/assets/PHOTO.jpg"
+                src="public\assets\PHOTO.jpg" // Path updated to reference public directory
                 alt="Pavan Kumar Dubasi"
               />
             </div>
